@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Hirect/static/css/main.9a976d3a.css",
+    "main.js": "/Hirect/static/js/main.73abf551.js",
+    "static/js/787.129b16e4.chunk.js": "/Hirect/static/js/787.129b16e4.chunk.js",
+    "static/media/job11.jpeg": "/Hirect/static/media/job11.1e2e3c3210cf1398dcd9.jpeg",
+    "static/media/rec21.png": "/Hirect/static/media/rec21.6047d83e8df0e1714cba.png",
+    "static/media/rec31.png": "/Hirect/static/media/rec31.49a1eda419a8f4961a03.png",
+    "static/media/mimg4.png": "/Hirect/static/media/mimg4.2842e2d6ee0eeaf6d10d.png",
+    "static/media/rec11.png": "/Hirect/static/media/rec11.5cda9e7f66a9731dc3a3.png",
+    "static/media/midimg2.png": "/Hirect/static/media/midimg2.9404a1b3987eb6ad6ed9.png",
+    "static/media/midimg1.png": "/Hirect/static/media/midimg1.a06f4e79f4f4a34586b6.png",
+    "static/media/titleimg1.png": "/Hirect/static/media/titleimg1.20433c0565711ca1c299.png",
+    "static/media/homepageb.png": "/Hirect/static/media/homepageb.12f136e81c0db1cc0afc.png",
+    "static/media/job2.jpeg": "/Hirect/static/media/job2.97f2df5ccc70a32eeb79.jpeg",
+    "static/media/rec1.jpeg": "/Hirect/static/media/rec1.6242a7313a737ef39d96.jpeg",
+    "static/media/midimg.png": "/Hirect/static/media/midimg.7de31424b2e32396cbe8.png",
+    "static/media/rec3.jpeg": "/Hirect/static/media/rec3.c090f2eb7f4a92069f72.jpeg",
+    "static/media/rec2.jpeg": "/Hirect/static/media/rec2.94fa0e8931070de51575.jpeg",
+    "static/media/job3.jpeg": "/Hirect/static/media/job3.32ffe0c6fb139e688f05.jpeg",
+    "static/media/mimg.png": "/Hirect/static/media/mimg.de2a61a8a7a2e7358961.png",
+    "static/media/job1.jpeg": "/Hirect/static/media/job1.33cafc279c777916c7ab.jpeg",
+    "static/media/mimg2.png": "/Hirect/static/media/mimg2.9c995b0851f4f519bdd1.png",
+    "static/media/companies.png": "/Hirect/static/media/companies.b85085552121e8e713ae.png",
+    "static/media/tiktok.png": "/Hirect/static/media/tiktok.02eef5258cf8b6c9d89f.png",
+    "static/media/mimg1.png": "/Hirect/static/media/mimg1.69b2cdeac04fe50f80c8.png",
+    "static/media/hirect-logo.png": "/Hirect/static/media/hirect-logo.ab2cb6f1548b3c987f12.png",
+    "static/media/mimg3.png": "/Hirect/static/media/mimg3.e3ffd090eddd88b2162e.png",
+    "index.html": "/Hirect/index.html",
+    "main.9a976d3a.css.map": "/Hirect/static/css/main.9a976d3a.css.map",
+    "main.73abf551.js.map": "/Hirect/static/js/main.73abf551.js.map",
+    "787.129b16e4.chunk.js.map": "/Hirect/static/js/787.129b16e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a976d3a.css",
+    "static/js/main.73abf551.js"
+  ]
+}
